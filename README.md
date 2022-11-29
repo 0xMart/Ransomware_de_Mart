@@ -2,8 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-
-Dans le cadre de ma formation j'ai 
+Dans le cadre de ma formation j'ai du développer un malware de type rançongiciel 
 
 ## Pour commencer
 
