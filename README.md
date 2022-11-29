@@ -28,7 +28,7 @@ Il faut avoir un fichier file.txt
   
   Ensuite installer pip (outil pour installer des librairies python facilement) : *python get-pip.py*
   
-  Pour installer les bibliothèques faire *pip3 install pycryptodome* et  *pip3 install pycryptodome*
+  Pour installer les bibliothèques faire *pip3 install pycryptodome* et  *pip3 install pycryptodomex*
 
 * _Pour_ _Ubuntu_ :
 
