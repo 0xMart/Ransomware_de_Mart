@@ -4,6 +4,9 @@
 
 Dans le cadre de ma formation j'ai du développer un malware de type rançongiciel 
 
+il chiffre un fichier nommé file.txt
+
+
 ## Pour commencer
 
 Faite attention ce logiciel peu corrompre des fichiers de votre machine 
@@ -11,6 +14,8 @@ Faite attention ce logiciel peu corrompre des fichiers de votre machine
 ### Pré-requis
 
 Il est important d'avoir python 3 d'installer sur votre machine ainsi que les bibliothèques cryptodome et cryptodomex
+
+Il faut avoir un fichier file.txt
 
 
 ### Installation
