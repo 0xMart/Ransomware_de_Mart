@@ -6,6 +6,8 @@ Dans le cadre de ma formation j'ai du développer un malware de type rançongici
 
 il chiffre un fichier nommé file.txt
 
+Pour le contexte j'ai créée 2 fichier un pour crypter et bloquer l'utilisateur et un pour le hacker pour qu'il puisse decrypter le fichier
+
 
 ## Pour commencer
 
