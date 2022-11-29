@@ -31,7 +31,7 @@ Il est important d'avoir python 3 d'installer sur votre machine ainsi que les bi
 
 ## Démarrage
 
-Pour lancer le logiciel il faut juste taper Python3 malware.py
+Pour lancer le logiciel il faut juste taper *Python3 malware.py*
 
 
 ## Auteurs
