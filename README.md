@@ -6,15 +6,12 @@ Dans le cadre de ma formation j'ai du développer un malware de type rançongici
 
 ## Pour commencer
 
-Entrez ici les instructions pour bien débuter avec votre projet...
+Faite attention avec ce que vous faite , ce logiciel peu corrompre des fichiers de votre machine 
 
 ### Pré-requis
 
-Ce qu'il est requis pour commencer avec votre projet...
+Il est important d'avoir python 3 d'installer sur votre machine ainsi que les bibliothèques cryptodome et cryptodomex
 
-- Programme 1
-- Programme 2
-- etc...
 
 ### Installation
 
