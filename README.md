@@ -19,6 +19,8 @@ Il est important d'avoir python 3 d'installer sur votre machine ainsi que les bi
 
   Pour installer python il faut se rendre sur https://www.python.org/downloads/
   
+  Ensuite installer pip (outil pour installer des librairies python facilement) : *python get-pip.py*
+  
   Pour installer les bibliothèques faire *pip3 install pycryptodome* et  *pip3 install pycryptodome*
 
 * _Pour_ _Ubuntu_ :
@@ -34,12 +36,4 @@ Pour lancer le logiciel il faut juste taper Python3 malware.py
 
 ## Auteurs
 Listez le(s) auteur(s) du projet ici !
-* **0xM@rt** _alias_ [@0xM@rt](https://github.com/outout14)
-
-Lisez la liste des [contributeurs](https://github.com/your/project/contributors) pour voir qui à aidé au projet !
-
-_(pour le lien mettez simplement l'URL de votre projet suivi de ``/contirubors``)_
-
-## License
-
-Ce projet est sous licence ``exemple: WTFTPL`` - voir le fichier [LICENSE.md](LICENSE.md) pour plus d'informations
+* **0xM@rt** _alias_ [@0xM@rt](https://github.com/0xMart)
