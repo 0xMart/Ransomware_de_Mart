@@ -6,7 +6,7 @@ Dans le cadre de ma formation j'ai du développer un malware de type rançongici
 
 ## Pour commencer
 
-Faite attention avec ce que vous faite , ce logiciel peu corrompre des fichiers de votre machine 
+Faite attention ce logiciel peu corrompre des fichiers de votre machine 
 
 ### Pré-requis
 
@@ -15,42 +15,26 @@ Il est important d'avoir python 3 d'installer sur votre machine ainsi que les bi
 
 ### Installation
 
-Les étapes pour installer votre programme....
+* _Pour_ _Windows_ :
 
-Dites ce qu'il faut faire...
+  Pour installer python il faut se rendre sur https://www.python.org/downloads/
+  
+  Pour installer les bibliothèques faire *pip3 install pycryptodome* et  *pip3 install pycryptodome*
 
-_exemple_: Executez la commande ``telnet mapscii.me`` pour commencer ensuite [...]
+* _Pour_ _Ubuntu_ :
 
-
-Ensuite vous pouvez montrer ce que vous obtenez au final...
+  Pour installer python il faut utiliser la commande sudo apt-get install python
+  
+  Pour installer *sudo apt-get install -y python-pycryptodome* et *sudo apt-get install -y python-pycryptodomex*
 
 ## Démarrage
 
-Dites comment faire pour lancer votre projet
+Pour lancer le logiciel il faut juste taper Python3 malware.py
 
-## Fabriqué avec
-
-Entrez les programmes/logiciels/ressources que vous avez utilisé pour développer votre projet
-
-_exemples :_
-* [Materialize.css](http://materializecss.com) - Framework CSS (front-end)
-* [Atom](https://atom.io/) - Editeur de textes
-
-## Contributing
-
-Si vous souhaitez contribuer, lisez le fichier [CONTRIBUTING.md](https://example.org) pour savoir comment le faire.
-
-## Versions
-Listez les versions ici 
-_exemple :_
-**Dernière version stable :** 5.0
-**Dernière version :** 5.1
-Liste des versions : [Cliquer pour afficher](https://github.com/your/project-name/tags)
-_(pour le lien mettez simplement l'URL de votre projets suivi de ``/tags``)_
 
 ## Auteurs
 Listez le(s) auteur(s) du projet ici !
-* **Jhon doe** _alias_ [@outout14](https://github.com/outout14)
+* **0xM@rt** _alias_ [@0xM@rt](https://github.com/outout14)
 
 Lisez la liste des [contributeurs](https://github.com/your/project/contributors) pour voir qui à aidé au projet !
 
